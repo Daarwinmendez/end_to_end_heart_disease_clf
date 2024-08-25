@@ -2,7 +2,7 @@
 
 This repository contains the code and documentation for a project focused on predicting heart disease using machine learning techniques. The project was developed as part of the Data Science and Machine Learning course by Zero to Mastery (ZTM).
 
-**Project Overview**
+## Project Overview
 
 The goal of this project was to build a machine learning model that can predict whether or not a patient has heart disease based on their medical attributes. The project involved several key steps:
 
