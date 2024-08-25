@@ -36,4 +36,5 @@ The goal of this project was to build a machine learning model that can predict 
 
 ## Acknowledgments
 
-This project was developed as a milestone project under the guidance of Zero to Mastery (ZTM). Special thanks to the ZTM community for their support and feedback.
+This project was developed as a milestone project under the guidance of [Zero to Mastery (ZTM)](https://zerotomastery.io). Special thanks to the ZTM community for their support and feedback.
+
